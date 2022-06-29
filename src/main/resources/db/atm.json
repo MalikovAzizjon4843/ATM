@@ -1,0 +1,91 @@
+[
+  {
+    "type": "UZCARD",
+    "name": "pdp",
+    "status": "ACTIVE",
+    "latitude": 6.0,
+    "longitude": 7.0,
+    "cassettes": [
+      {
+        "currencyValue": "50",
+        "status": "ACTIVE",
+        "currencyCount": 5
+      }
+    ],
+    "id": "33687640811200IcAzSNkSYbVP8OmQHZjP",
+    "createdAt": "Dec 13, 2021, 2:46:01 AM",
+    "deleted": 0
+  },
+  {
+    "type": "HUMO",
+    "name": "pdp1",
+    "status": "ACTIVE",
+    "latitude": 4.0,
+    "longitude": 5.0,
+    "cassettes": [
+      {
+        "currencyValue": "5",
+        "status": "ACTIVE",
+        "currencyCount": 100
+      }
+    ],
+    "id": "337316439061004PHJFX7B9BCQRtRpqSHp",
+    "createdAt": "Dec 13, 2021, 2:46:46 AM",
+    "deleted": 0
+  },
+  {
+    "type": "UZCARD",
+    "name": "pdp2",
+    "status": "ACTIVE",
+    "latitude": 5.0,
+    "longitude": 6.0,
+    "cassettes": [],
+    "id": "340559099947006GFOP35DO7EzgOhNl23k",
+    "createdAt": "Dec 13, 2021, 2:51:59 AM",
+    "deleted": 0
+  },
+  {
+    "type": "HUMO",
+    "name": "pdp4",
+    "status": "ACTIVE",
+    "latitude": 5.0,
+    "longitude": 66.0,
+    "cassettes": [],
+    "id": "34139519395199DxFjgyMo8YWdibsWFyGm",
+    "createdAt": "Dec 13, 2021, 2:53:33 AM",
+    "deleted": 0
+  },
+  {
+    "branchID": "346866490967400bZHpD5CGQDWNJMx55DzW",
+    "type": "UZCARD",
+    "name": "Avengers",
+    "status": "ACTIVE",
+    "latitude": 7.0,
+    "longitude": 5.0,
+    "cassettes": [
+      {
+        "currencyValue": "100",
+        "status": "ACTIVE",
+        "currencyCount": 99
+      },
+      {
+        "currencyValue": "50",
+        "status": "ACTIVE",
+        "currencyCount": 10
+      },
+      {
+        "currencyValue": "10",
+        "status": "ACTIVE",
+        "currencyCount": 98
+      },
+      {
+        "currencyValue": "5",
+        "status": "ACTIVE",
+        "currencyCount": 50
+      }
+    ],
+    "id": "285673360562000RnBzgGu2mPz0ls62AK19",
+    "createdAt": "Dec 13, 2021, 5:26:47 PM",
+    "deleted": 0
+  }
+]

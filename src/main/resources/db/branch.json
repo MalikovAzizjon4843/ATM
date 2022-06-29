@@ -1,0 +1,57 @@
+[
+  {
+    "name": "sa",
+    "status": "ACTIVE",
+    "id": "346866490967400bZHpD5CGQDWNJMx55DzW",
+    "createdAt": "Dec 9, 2021, 11:42:20 PM",
+    "deleted": 0
+  },
+  {
+    "name": "brnach1",
+    "status": "ACTIVE",
+    "id": "383089843863400A745mWcgGjzJxEQTts7y",
+    "createdAt": "Dec 10, 2021, 9:46:04 AM",
+    "deleted": 0
+  },
+  {
+    "name": "Branch1",
+    "status": "BLOCKED",
+    "id": "383105541883300xfQGnBvLMv6i8LRgDOZN",
+    "createdAt": "Dec 10, 2021, 9:46:20 AM",
+    "deleted": 0
+  },
+  {
+    "name": "ulugbek\u0027",
+    "status": "ACTIVE",
+    "id": "667679418950078SBVPmWbMqNFxNKAQaW",
+    "createdAt": "Dec 10, 2021, 11:57:24 AM",
+    "deleted": 0
+  },
+  {
+    "name": "eycskewbujvdscka",
+    "status": "ACTIVE",
+    "createdAt": "Dec 10, 2021, 11:04:29 AM",
+    "createdBy": "380678377465700QJl9g55wrX3K8JkWAc2E",
+    "deleted": 0
+  },
+  {
+    "name": "efwbrbfs",
+    "status": "ACTIVE",
+    "createdAt": "Dec 10, 2021, 7:37:06 PM",
+    "createdBy": "380678377465700QJl9g55wrX3K8JkWAc2E",
+    "deleted": 0
+  },
+  {
+    "name": "as",
+    "status": "ACTIVE",
+    "createdAt": "Dec 11, 2021, 11:16:50 AM",
+    "createdBy": "380678377465700QJl9g55wrX3K8JkWAc2E",
+    "deleted": 0
+  },
+  {
+    "name": "pdp",
+    "status": "ACTIVE",
+    "createdAt": "Dec 13, 2021, 1:03:35 AM",
+    "deleted": 0
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "username": "jl",
+    "password": "123",
+    "role": "SUPER_ADMIN",
+    "status": "ACTIVE",
+    "cards": [],
+    "id": "380678377465700QJl9g55wrX3K8JkWAc2E",
+    "createdAt": "Dec 10, 2021, 9:05:51 AM",
+    "deleted": 0
+  },
+  {
+    "username": "sss",
+    "password": "11",
+    "role": "ADMIN",
+    "status": "ACTIVE",
+    "cards": [],
+    "id": "346866490967400bZHpD5CGQDWNJMx55DzW",
+    "createdAt": "Dec 12, 2021, 7:30:28 PM",
+    "deleted": 0
+  },
+  {
+    "username": "sal",
+    "password": "22",
+    "role": "HR",
+    "status": "ACTIVE",
+    "cards": [],
+    "id": "346866490967400bZHpD5CGQDWNJMx55DzW",
+    "createdAt": "Dec 12, 2021, 10:52:09 PM",
+    "deleted": 0
+  },
+  {
+    "username": "pdp1",
+    "password": "123",
+    "role": "ADMIN",
+    "status": "ACTIVE",
+    "cards": [],
+    "createdAt": "Dec 13, 2021, 1:04:16 AM",
+    "deleted": 0
+  },
+  {
+    "username": "pdp",
+    "password": "1234",
+    "role": "EMPLOYEE",
+    "status": "ACTIVE",
+    "cards": [],
+    "id": "346866490967400bZHpD5CGQDWNJMx55DzW",
+    "createdAt": "Dec 13, 2021, 3:33:21 AM",
+    "deleted": 0
+  },
+  {
+    "username": "qw",
+    "password": "qwe2",
+    "role": "EMPLOYEE",
+    "status": "ACTIVE",
+    "phoneNumber": "12345",
+    "cards": [],
+    "id": "37209683364000I5TRvDQjoeGNJeGM3P4v",
+    "createdAt": "Dec 13, 2021, 3:44:51 AM",
+    "createdBy": "346866490967400bZHpD5CGQDWNJMx55DzW",
+    "deleted": 0
+  },
+
+  {
+    "username": "elyor",
+    "password": "1234",
+    "role": "CLIENT",
+    "status": "ACTIVE",
+    "phoneNumber": "1234567",
+    "passport": {
+      "serial": "Ab",
+      "number": "123456",
+      "gender": "MALE",
+      "firstName": "Elyor",
+      "lastName": "Ergashov",
+      "fatherName": "Doniyor",
+      "ownerId": "43498265109200SkYBond0WoLrJGO2kgAJ",
+      "createdAt": "Dec 13, 2021, 5:29:39 AM",
+      "deleted": 0
+    },
+    "cards": [
+      {
+        "pan": "860043506005856400635720162774",
+        "expiry": "5/21",
+        "password": "1234",
+        "type": "UZCARD",
+        "status": "ACTIVE",
+        "balance": 0,
+        "holderId": "42326750196700SsMKoW0MZzytDGlouzev",
+        "createdAt": "Dec 13, 2021, 5:29:50 AM",
+        "deleted": 0
+      }
+    ],
+    "id": "42326750196700SsMKoW0MZzytDGlouzev",
+    "createdAt": "Dec 13, 2021, 5:10:08 AM",
+    "createdBy": "346866490967400bZHpD5CGQDWNJMx55DzW",
+    "deleted": 0
+  },
+  {
+    "username": "elyor",
+    "password": "1234",
+    "role": "CLIENT",
+    "status": "ACTIVE",
+    "phoneNumber": "1234567",
+    "passport": {
+      "serial": "Ab",
+      "number": "123456",
+      "gender": "MALE",
+      "firstName": "Elyor",
+      "lastName": "Ergashov",
+      "fatherName": "Doniyor",
+      "ownerId": "43498265109200SkYBond0WoLrJGO2kgAJ",
+      "createdAt": "Dec 13, 2021, 5:29:39 AM",
+      "deleted": 0
+    },
+    "cards": [
+      {
+        "pan": "860043506005856400635720162774",
+        "expiry": "5/21",
+        "password": "1234",
+        "type": "UZCARD",
+        "status": "ACTIVE",
+        "balance": 0,
+        "holderId": "42326750196700SsMKoW0MZzytDGlouzev",
+        "createdAt": "Dec 13, 2021, 5:29:50 AM",
+        "deleted": 0
+      }
+    ],
+    "id": "42326750196700SsMKoW0MZzytDGlouzev",
+    "createdAt": "Dec 13, 2021, 5:10:08 AM",
+    "createdBy": "346866490967400bZHpD5CGQDWNJMx55DzW",
+    "deleted": 0
+  },
+  {
+    "username": "sall",
+    "password": "11",
+    "role": "CLIENT",
+    "status": "ACTIVE",
+    "phoneNumber": "911275867",
+    "cards": [],
+    "id": "283861221960000DMC9N3X2kTyhAdUvVWmH",
+    "createdAt": "Dec 13, 2021, 4:57:02 PM",
+    "createdBy": "37209683364000I5TRvDQjoeGNJeGM3P4v",
+    "deleted": 0
+  }
+]
